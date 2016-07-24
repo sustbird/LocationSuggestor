@@ -1,0 +1,6 @@
+Id,Key,Name,Full Name,IATA Airport Code,Type,Country,Latitude,Longitude,location Id,In Europe,Country Id,Country Code,Core Country,Distance,Names,Alternative Names
+368571,,Vienna,"Vienna, Austria",,location,Austria,48.20849,16.37208,729,true,14,AT,true,,"{fi=Wien, es=Viena, tr=Beç, no=Wien, pl=Wiedeń, pt=Viena, fr=Vienne, ru=Вена, is=Vínarborg, de=Wien, zh=维也纳, cs=Vídeň, sv=Wien, ca=Viena, nl=Wenen}",AlternativeNames{additionalProperties={}}
+433088,,Viennay,"Viennay, France",,location,France,46.68711,-0.24641,132569,true,73,FR,true,,{},AlternativeNames{additionalProperties={}}
+465364,,Vienna,"Vienna, USA",,location,USA,38.90122,-77.26526,167128,false,225,US,false,,{},AlternativeNames{additionalProperties={}}
+411798,,Vienna,"Vienna, USA",,location,USA,39.32702,-81.54846,44034,false,225,US,false,,{},AlternativeNames{additionalProperties={}}
+313881,,Vienna,"Vienna (VIE), Austria",VIE,airport,Austria,48.121095,16.5612678,,true,14,AT,true,,"{de=Wien, ca=Viena, nl=Wenen}",AlternativeNames{additionalProperties={}}
